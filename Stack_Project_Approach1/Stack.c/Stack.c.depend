@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1624804627 source:/home/mansoor/Documents/Stack_Project/Stack.c/stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1624804665 /home/mansoor/Documents/Stack_Project/Stack.c/stack.h
+
+1624806984 source:/home/mansoor/Documents/Stack_Project/Stack.c/tStack.c
+	"stack.h"
+	<stdio.h>
+

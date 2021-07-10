@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1625142736 source:/home/mansoor/Documents/gSort_genericV3/gSort.c/tGsort.c
+	<stdio.h>
+	"gSort.h"
+
+1625142428 /home/mansoor/Documents/gSort_genericV3/gSort.c/gSort.h
+
+1625143293 source:/home/mansoor/Documents/gSort_genericV3/gSort.c/gSort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gSort.h"
+

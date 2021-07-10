@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625215878 source:/home/mansoor/Documents/Error_Handling/ErrorHandling/status.c
+	<stdio.h>
+	"status.h"
+
+1625216075 /home/mansoor/Documents/Error_Handling/ErrorHandling/status.h
+

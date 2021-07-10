@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624963829 source:/home/mansoor/Documents/Generalizing_sortArray/Generalizing_sortArray/intArray.c
+	<stdio.h>
+	<stdlib.h>
+	"intArray.h"
+
+1624975031 /home/mansoor/Documents/Generalizing_sortArray/Generalizing_sortArray/intArray.h
+
